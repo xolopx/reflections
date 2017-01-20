@@ -10,6 +10,6 @@ That means that the files after repository creation are untracked.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It holds the files you want to commit together. It allows the user to customize what they want to commit together, for exmaple if a file is logically related to
-another they can be committed together.
+another they can be committed together.adasd
 
 
