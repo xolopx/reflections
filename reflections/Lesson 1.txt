@@ -58,4 +58,4 @@ Because you can be sure your previous working version still exist and you can ea
 Refletion 7:
 Now that you have your workspace set up, what do you want to try using Git for?
 
-I want to use git to help me with my university and personal coding projects. Hopefully it will make things more efficient.
+I want to use git to help me with my university and personal coding projects. Hopefully it will make things more efficient..
