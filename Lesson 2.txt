@@ -1,0 +1,15 @@
+1
+
+What happens when you initialize a repository? Why do you need to do it?
+
+Use command "git init" in the directory with the project. This will not create any commits by default but will allow you to do so in the future.
+That means that the files after repository creation are untracked.
+
+2
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It holds the files you want to commit together. It allows the user to customize what they want to commit together, for exmaple if a file is logically related to
+another they can be committed together.
+
+
